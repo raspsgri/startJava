@@ -1,9 +1,9 @@
 package Start;
 public class Methods {
-    public void printer(float x) {
+    void printer(float x) {
         System.out.println(Math.abs(x));
     }
-    public void adder(int x) {
+    void adder(int x) {
         Main.numOne += x;
     }
     public void randomizer() {

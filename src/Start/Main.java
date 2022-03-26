@@ -15,4 +15,5 @@ public class Main {
         methods.sumRekShow(randNum);
         methods.randomizer();
     }
+
 }
