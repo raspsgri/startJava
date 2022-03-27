@@ -1,12 +1,15 @@
 package Start;
 public class Methods {
     void printer(float x) {
+
         System.out.println(Math.abs(x));
     }
     void adder(int x) {
+
         Main.numOne += x;
     }
     void randomizer() {
+
         Main.randNum = (int) (Math.random() * 100);
     }
     void testerOne(float x) {

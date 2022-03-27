@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         methods.looperOne(randNum);
         methods.printer(numOne);
-        methods.adder(3);
+        methods.adder(randNum);
         methods.printer(numOne);
         methods.printer(randNum);
         methods.testerOne(randNum);
